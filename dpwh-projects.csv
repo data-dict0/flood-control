@@ -1,23 +1,23 @@
-﻿Project Name,DPWH contract ID,Project year,Region,Status in DIME,Project cost (DIME),Project cost (DPWH),Difference,Completion rate in DPWH,Contract expiration,2026 proposed budget,Page in the 2026  budget
-"Rehabilitation of Existing Dike along Lucung River (San Jose Section, Right Bank), Concepcion, Tarlac",24CK0074,2024,III,Completed,96497898.96,96497898.96,0,100%,8/21/24,100000000,1247
-" Flood Control Structure along Naghalin River (Upstream), Catmon, Cebu",24HI0002,2024,VII,Completed,72367100.6,72367100.6,0,100%,11/24/24,120000000,1260
-" Concrete Revetment, Lapuan Flood Control, Don Marcelino, Davao Occidental",24LE0020,2024,XI,Completed,116555947.6,116555947.6,-0.04,100%,10/22/24,100000000,1267
-" Concrete Revetment, Lawa Flood Control, Don Marcelino, Davao Occidental",23LE0020,2023,XI,Completed,77189414.06,77189414.06,0,100%,10/4/23,100000000,1267
-" Flood Mitigation Structure along Agay River, Barangay Balang-Balang, Remedios T. Romualdez, Agusan del Norte",24NA0004,2024,XIII,Completed,72174973.97,72174973.97,0,100%,11/22/24,180000000,1269
-" Box Culvert along East Bank Road Open Channel, Pasig City",23OB0065,2023,NCR,Completed,4649672.91,4649672.91,0,100%,5/6/23,5000000,1271
-" Box Culvert along Barangay 173, Caloocan City",24OD0063,2024,NCR,Completed,47970672.03,47970672.03,0,100%,1/8/25,50000000,1272
-" Flood Control Wall along the Banks of Creeks, Barangay 166, Caloocan City",24OD0019,2024,NCR,Completed,47926860.63,47926860.63,0,100%,7/25/24,50000000,1272
-" Flood Control Wall along the Banks of Creeks, Barangay 167, Caloocan City",24OD0032,2024,NCR,Completed,28753954.6,28753954.6,0,100%,7/12/24,50000000,1272
-" Flood Control Structure along Dibabuyan River, Barangay Mabini, Santo Domingo, Nueva Ecija",24CE0259,2024,III,Completed,47767129,47767129,0,100%,12/3/24,50000000,1279
-" Flood Control Structure along Labong River, Barangay Manacsac, Guimba, Nueva Ecija",24CE0126,2024,III,Completed,47762663.9,47762663.9,0,100%,12/23/24,50000000,1279
-" Revetment along Lawaye River (Palahanan Section), San Juan, Batangas",23DD0110,2023,IV-A,Completed,39200000,39200000,0,100%,10/2/23,50000000,1281
-" Breakwater, Alabat, Quezon",24DL0015,2024,IV-A,Completed,19599888.56,19599888.56,0,100%,11/6/24,20000000,1282
-" Flood Control Structure, Barangay Pili, Ajuy, Iloilo",23GH0046,2023,VII,Completed,86464000,86464000,0,100%,2/29/24,55000000,1310
-" Flood Control Structure of Imbang River, Silay City, Negros Occidental",24GK0012,2024,VI,Completed,96499995,96499995.02,-0.02,100%,1/7/25,83000000,1312
-" Flood Control Structure along Angat River, Sta. 12 + 340 - Sta. 12 + 740, Angat, Bulacan",23CD0061,2023,III,Completed,86848966.84,86848966.84,0,100%,12/10/23,100000000,1236
-" Revetment along Surigao River, Togbongon Section, Surigao City, Surigao del Norte",23NG0042,2023,XIII,Completed,96472570.51,96472570.51,0,100%,4/19/24,50000000,1329
-" Flood Control Structure, Ala River (D'Lotilla - Bual), Isulan, Sultan Kudarat",24MF0018,2024,XII,Completed,44954629.65,44954629.65,0,100%,8/27/24,50000000,1329
-" Flood Control Structure along Sicaba River, Cadiz City, Negros Occidental",24GK0002,2024,Negros,Completed,57896912,57896911.64,0.36,100%,8/24/24,50000000,1327
-" Flood Control Structure along Rio Chico, Barangay Macamias, Guimba, Nueva Ecija",24CE0218,2024,III,Completed,19105042.95,19105042.95,0,100%,9/27/24,50000000,1325
-" Dike Revetment along Hubo River Basin Protecting Hubo Bridge, Upstream, Barangay Buhisan, San Agustin, Surigao del Sur",24NH0041,2024,XIII,Completed,96499216.69,96499216.69,0,100%,1/16/25,69000000,1319
-" Flood Control Wall along the Banks of Creeks along Palmera, Barangay 175 (Phase 3), Caloocan City",24OD0071,2024,NCR,Completed,47975930.1,47975930.1,0,100%,9/23/24,95000000,1222
+﻿Project Name,DPWH contract ID,Project year,Region,Project cost (DIME),Project cost (DPWH),Difference,Completion rate in DPWH,Status in DIME,Contract expiration,2026 proposed budget,Page in the 2026  budget
+"Rehabilitation of Existing Dike along Lucung River (San Jose Section, Right Bank), Concepcion, Tarlac",24CK0074,2024,III,96497898.96,96497898.96,0,100%,Completed,8/21/24,100000000," 1,247 "
+" Flood Control Structure along Naghalin River (Upstream), Catmon, Cebu",24HI0002,2024,VII,72367100.6,72367100.6,0,100%,Completed,11/24/24,120000000," 1,260 "
+" Concrete Revetment, Lapuan Flood Control, Don Marcelino, Davao Occidental",24LE0020,2024,XI,116555947.6,116555947.6,-0.04,100%,Completed,10/22/24,100000000," 1,267 "
+" Concrete Revetment, Lawa Flood Control, Don Marcelino, Davao Occidental",23LE0020,2023,XI,77189414.06,77189414.06,0,100%,Completed,10/4/23,100000000," 1,267 "
+" Flood Mitigation Structure along Agay River, Barangay Balang-Balang, Remedios T. Romualdez, Agusan del Norte",24NA0004,2024,XIII,72174973.97,72174973.97,0,100%,Completed,11/22/24,180000000," 1,269 "
+" Box Culvert along East Bank Road Open Channel, Pasig City",23OB0065,2023,NCR,4649672.91,4649672.91,0,100%,Completed,5/6/23,5000000," 1,271 "
+" Box Culvert along Barangay 173, Caloocan City",24OD0063,2024,NCR,47970672.03,47970672.03,0,100%,Completed,1/8/25,50000000," 1,272 "
+" Flood Control Wall along the Banks of Creeks, Barangay 166, Caloocan City",24OD0019,2024,NCR,47926860.63,47926860.63,0,100%,Completed,7/25/24,50000000," 1,272 "
+" Flood Control Wall along the Banks of Creeks, Barangay 167, Caloocan City",24OD0032,2024,NCR,28753954.6,28753954.6,0,100%,Completed,7/12/24,50000000," 1,272 "
+" Flood Control Structure along Dibabuyan River, Barangay Mabini, Santo Domingo, Nueva Ecija",24CE0259,2024,III,47767129,47767129,0,100%,Completed,12/3/24,50000000," 1,279 "
+" Flood Control Structure along Labong River, Barangay Manacsac, Guimba, Nueva Ecija",24CE0126,2024,III,47762663.9,47762663.9,0,100%,Completed,12/23/24,50000000," 1,279 "
+" Revetment along Lawaye River (Palahanan Section), San Juan, Batangas",23DD0110,2023,IV-A,39200000,39200000,0,100%,Completed,10/2/23,50000000," 1,281 "
+" Breakwater, Alabat, Quezon",24DL0015,2024,IV-A,19599888.56,19599888.56,0,100%,Completed,11/6/24,20000000," 1,282 "
+" Flood Control Structure, Barangay Pili, Ajuy, Iloilo",23GH0046,2023,VII,86464000,86464000,0,100%,Completed,2/29/24,55000000," 1,310 "
+" Flood Control Structure of Imbang River, Silay City, Negros Occidental",24GK0012,2024,Negros Island,96499995,96499995.02,-0.02,100%,Completed,1/7/25,83000000," 1,312 "
+" Flood Control Structure along Angat River, Sta. 12 + 340 - Sta. 12 + 740, Angat, Bulacan",23CD0061,2023,III,86848966.84,86848966.84,0,100%,Completed,12/10/23,100000000," 1,236 "
+" Revetment along Surigao River, Togbongon Section, Surigao City, Surigao del Norte",23NG0042,2023,XIII,96472570.51,96472570.51,0,100%,Completed,4/19/24,50000000," 1,329 "
+" Flood Control Structure, Ala River (D'Lotilla - Bual), Isulan, Sultan Kudarat",24MF0018,2024,XII,44954629.65,44954629.65,0,100%,Completed,8/27/24,50000000," 1,329 "
+" Flood Control Structure along Sicaba River, Cadiz City, Negros Occidental",24GK0002,2024,Negros Island,57896912,57896911.64,0.36,100%,Completed,8/24/24,50000000," 1,327 "
+" Flood Control Structure along Rio Chico, Barangay Macamias, Guimba, Nueva Ecija",24CE0218,2024,III,19105042.95,19105042.95,0,100%,Completed,9/27/24,50000000," 1,325 "
+" Dike Revetment along Hubo River Basin Protecting Hubo Bridge, Upstream, Barangay Buhisan, San Agustin, Surigao del Sur",24NH0041,2024,XIII,96499216.69,96499216.69,0,100%,Completed,1/16/25,69000000," 1,319 "
+" Flood Control Wall along the Banks of Creeks along Palmera, Barangay 175 (Phase 3), Caloocan City",24OD0071,2024,NCR,47975930.1,47975930.1,0,100%,Completed,9/23/24,95000000," 1,222 "
